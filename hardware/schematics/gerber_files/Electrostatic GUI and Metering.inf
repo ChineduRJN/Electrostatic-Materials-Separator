@@ -1,0 +1,81 @@
+
+Circuit Wizard Gerber Export
+
+Created : 8/7/2026 2:29:12 AM
+Source  : Circuit Wizard 1.50 (09 Oct 2009) :: Build C.6
+Design  : Electrostatic GUI and Metering.cwz
+Title   : 
+Author  : 
+Company : 
+
+RS-274X (extended) Gerber export.
+2.3 format, inches, absolute.
+No zero suppression.
+Aperture table defined in Gerber file.
+
+-----------------------------------------------------------------------------
+
+File: "C:\Users\ELITE 840 G7\Downloads\fromLata\Electrostatic GUI and Metering.drl"
+
+  Drill hole layer
+
+  T-Code   Size
+  T01      .032
+  T02      .050
+
+-----------------------------------------------------------------------------
+
+File: "Electrostatic GUI and Metering.gb0"
+
+  Board outline layer
+
+  D-Code   Type
+  D10      Circle .005
+  D11      Circle .010
+
+-----------------------------------------------------------------------------
+
+File: "Electrostatic GUI and Metering.gb1"
+
+  Bottom copper (solder side) layer
+
+  D-Code   Type
+  D10      Circle .005
+  D11      Circle .040
+  D12      Circle .032
+  D13      Circle .002
+  D14      Oval .050 .120
+  D15      Circle .080
+  D16      Circle .079
+  D17      Circle .125
+  D18      Oval .080 .120
+  D19      Oval .120 .080
+  D20      Oval .120 .050
+
+-----------------------------------------------------------------------------
+
+File: "Electrostatic GUI and Metering.gb2"
+
+  Top copper (component side) layer
+
+  D-Code   Type
+  D10      Circle .005
+  D11      Oval .050 .120
+  D12      Circle .080
+  D13      Circle .079
+  D14      Circle .125
+  D15      Oval .120 .050
+
+-----------------------------------------------------------------------------
+
+File: "Electrostatic GUI and Metering.gb3"
+
+  Silk screen (component outline) layer
+
+  D-Code   Type
+  D10      Circle .005
+  D11      Circle .002
+
+-----------------------------------------------------------------------------
+
+End of report.
